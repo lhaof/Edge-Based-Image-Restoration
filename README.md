@@ -23,3 +23,4 @@ I implemented this code when I was submitting my paper 'CASI: Context-Aware Sema
   year={2018}
 }
 ```
+As I remember, 'imrestore.py' works for gray-scale images while 'rgbrestore.py' deals with RGB images.
