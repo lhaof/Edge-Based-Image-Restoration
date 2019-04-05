@@ -1,4 +1,5 @@
 # Edge-Based-Image-Restoration
+![alt text][input_0021.png]
 This is the code of Edge-Based Image Restoration, implemented by lhaof.
 
 If you use this code, you need to cite the following paper
