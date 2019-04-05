@@ -1,5 +1,8 @@
 # Edge-Based-Image-Restoration
-![alt text](input_0021.png)
+<p align="center">
+  <img src="input_0021.png" width="350" title="hover text">
+  <img src="input_0021.png" width="350" alt="accessibility text">
+</p>
 
 This is the code of Edge-Based Image Restoration, implemented by lhaof.
 
