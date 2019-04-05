@@ -1,7 +1,7 @@
 # Edge-Based-Image-Restoration
 <p align="center">
   <img src="input_0021.png" width="350" title="hover text">
-  <img src="input_0021.png" width="350" alt="accessibility text">
+  <img src="input_0021_res.png" width="350" alt="accessibility text">
 </p>
 
 This is the code of Edge-Based Image Restoration, implemented by lhaof.
@@ -35,3 +35,4 @@ Python
 Matlab
 matlab.engine for python (then you can call matlab function within a python script.)
 ```
+Notice that the code can only recover a central square region in an image. If you want to process arbitrary corrupt regions, you should better re-implement the algorithm. Good luck and have fun.
