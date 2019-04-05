@@ -1,5 +1,6 @@
 # Edge-Based-Image-Restoration
 This is the code of Edge-Based Image Restoration, implemented by lhaof.
+
 If you use this code, you need to cite the following paper
 ```
 @article{article,
@@ -11,4 +12,3 @@ If you use this code, you need to cite the following paper
   volume = {14},
   journal = {IEEE Transactions on Image Processing}
 }
-'''
