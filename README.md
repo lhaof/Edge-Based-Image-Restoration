@@ -1,4 +1,4 @@
-# Edge-Based-Image-Restoration
+# Edge Based Image Restoration
 <p align="center">
   <img src="input_0021.png" width="350" title="input_image">
   <img src="input_0021_res.png" width="350" alt="output_image">
